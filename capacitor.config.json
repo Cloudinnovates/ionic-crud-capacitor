@@ -1,0 +1,6 @@
+{
+  "appId": "com.capacitor.crud",
+  "appName": "crud-capacitor",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
